@@ -1,4 +1,4 @@
-/*========= typing animation ====================*/
+/*========= ........................typing animation....................... ====================*/
 var typed = new Typed(".typing", {
   strings:["Web Designer","", "Web Developer", "Competetive Programmer"],
   typeSpeed:100,
@@ -6,7 +6,7 @@ var typed = new Typed(".typing", {
   loop:true
 })
 
-/*========= aside ====================*/
+/*========= ........aside............ ====================*/
 const nav = document.querySelector(".nav"),
 navList = nav.querySelectorAll("li"),
 totalNavList = navList.length;
