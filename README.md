@@ -4,8 +4,6 @@ Portfolio Website
 this is home page
 ![msedge_saEAkfCu33](https://github.com/Taniya-12/portfolio/assets/88928292/17be5a18-4d41-4ac3-b301-e9ca8c86e1d7)
 
-this is my About page
-![msedge_qoVg1J5uQu](https://github.com/Taniya-12/portfolio/assets/88928292/03925943-ba3e-4ab9-8084-4deba11b5cbe)
 
 this is my project area..
 ![msedge_EtdCcyYrAa](https://github.com/Taniya-12/portfolio/assets/88928292/780cd205-6b9c-4b94-8280-84aecaa95dfb)
